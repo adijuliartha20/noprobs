@@ -2,3 +2,6 @@
 /**
 * Template Name: Page Header
 */
+
+
+echo "header";
